@@ -1,4 +1,5 @@
-👋 Hi, I'm Noxi<br>Most of my projects will be private and not open source
+# 👋 Hi, I'm Noxi<br>
+### Most of my projects will be private and not open source
 
 ## 🌐 Socials :
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/newalfox) 
