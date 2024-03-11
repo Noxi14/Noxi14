@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Newalfox discord bot<br>👯 I’m looking to collaborate on iHorizon and org-tools<br>🌱 I’m currently learning C and php
+# 🔭 I’m currently working on Newalfox discord bot<br>👯 I’m looking to collaborate on iHorizon and org-tools<br>🌱 I’m currently learning C and php
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/newalfox) 
