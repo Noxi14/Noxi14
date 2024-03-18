@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Noxi<br>
-### Most of my projects will be private and not open source
+### I don't save my private projects on github, so there's no point in trying to find them.
 
 ## 🌐 Socials
 Discord Nickname : noxi000
